@@ -15,7 +15,7 @@ for(var i=0; i<x.length; i++){
 }
 ele.innerHTML=y;
 document.getElementById('info3').innerHTML=
-document.getElementById('in1').value.replace('大數據','big data');
+document.getElementById('in1').value.replace('愛','恨')
 }
 
 function start(e){
