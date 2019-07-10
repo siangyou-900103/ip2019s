@@ -1,0 +1,20 @@
+
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0,0,512,512">
+
+  <rect width="512" height="512" stroke="red" fill="white"></rect>
+
+ 
+ <ellipse fill="#fafafc" stroke="#000000" stroke-width="3" cx="220" cy="200" rx="20" ry="40"/>
+
+ <ellipse fill="#fafafc" stroke="#000000" stroke-width="3" cx="280" cy="200" rx="20" ry="40"/>
+
+ <ellipse fill="#fafafc" stroke="#000000" stroke-width="3" cx="250" cy="250" rx="80" ry="60"/>
+
+ <circle fill="#00000" cx="220" cy="230" r="5"/>
+
+ <circle fill="#00000" cx="280" cy="230" r="5"/>
+
+ <circle fill="#f5e90a" stroke="#000000" stroke-width="3" cx="250" cy="250" r="7"/>
+
+
+</svg>
